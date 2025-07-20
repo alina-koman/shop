@@ -104,6 +104,7 @@ body{
 
 .menu-mobile__list--active{
     transform: translateX(0%);
+    z-index: 100;
 }
 
 .menu-mobile__item{
